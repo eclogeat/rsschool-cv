@@ -1,1 +1,1 @@
-# rsschool-cv
+https://eclogeat.github.io/rsschool-cv/cv
