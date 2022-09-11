@@ -1,1 +1,1 @@
-https://eclogeat.github.io/rsschool-cv/cv
+https://eclogeat.github.io/rsschool-cv/
